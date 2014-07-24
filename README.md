@@ -50,3 +50,5 @@ Instructions to run the program:
         1) If correct decimal conversion is inputted -> alarm turns off
         2) Else if incorrect decimal conversion is inputted -> alarm remains on and user is given another chance 
         
+        
+  ![alt tag](https://raw.github.com/JustinSYDE/Sunrise-Alarm/master/SunriseAlarmCircuit.jpg)
