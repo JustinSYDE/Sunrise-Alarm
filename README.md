@@ -53,5 +53,6 @@ NOTE: This code uses the time library which can be downloaded from http://playgr
         2) Else if incorrect decimal conversion is inputted -> alarm remains on and user is given another chance 
         
   
-  ###Pictures
+### Pictures
+  
   ![alt tag](https://raw.github.com/JustinSYDE/Sunrise-Alarm/master/SunriseAlarmCircuit.jpg)
