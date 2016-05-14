@@ -14,12 +14,14 @@ not been plagiarized from other sources and
 has not been plagiarized by others.
 ************************************************
 
+###Description
+
 Code for an Arduino sunrise alarm system. The alarm consists of photo resistors, triLEDs, speakers, etc. When the alarm is on, a binary number is displayed via the LEDs. To turn of the alarm off, the user must input the correct decimal conversion of the binary number. Otherwise, the alarm works as any other normal alarm (i.e. displays time, snoozes, etc.). 
 
 
 NOTE: This code uses the time library which can be downloaded from http://playground.arduino.cc/code/time.
 
-Instructions to run the program:
+###Instructions
 
     Step 0. Wire up Arduino and circuit as shown below
 
@@ -50,5 +52,6 @@ Instructions to run the program:
         1) If correct decimal conversion is inputted -> alarm turns off
         2) Else if incorrect decimal conversion is inputted -> alarm remains on and user is given another chance 
         
-        
+  
+  ###Pictures
   ![alt tag](https://raw.github.com/JustinSYDE/Sunrise-Alarm/master/SunriseAlarmCircuit.jpg)
